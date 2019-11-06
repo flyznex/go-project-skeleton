@@ -1,0 +1,4 @@
+build/
+.vscode/
+k8s/
+elk/
